@@ -156,7 +156,7 @@ To change the number of training data classes, change the value of "NUM_CLASSES 
 
 The image of the model prepared in "[point_history_classification.ipynb](point_history_classification.ipynb)" is as follows.
 <img src="https://user-images.githubusercontent.com/37477845/102246771-7481ff00-3f42-11eb-8ddf-9e3cc30c5816.png" width="50%"><br>
-The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "True" when using (tf-nightly required (as of 2020/12/16))<br>
+The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "True" when using <br>
 <img src="https://user-images.githubusercontent.com/37477845/102246817-8368b180-3f42-11eb-9851-23a7b12467aa.png" width="60%">
 
 # Reference
