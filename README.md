@@ -137,7 +137,7 @@ The image of the model prepared in "[keypoint_classification.ipynb](keypoint_cla
 #### 1.Learning data collection
 
 Press "h" to enter the mode to save the history of fingertip coordinates (displayed as "MODE:Logging Point History").<br>
-<img src="https://user-images.githubusercontent.com/37477845/102249074-4d78fc80-3f45-11eb-9c1b-3eb975798871.jpg" width="60%"><br><br>
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/100310619/208147065-aa8d8cef-ef68-4f43-acc1-5bf5cb492fd4.png" width="60%"><br><br>
 If you press "0" to "9", the key points will be added to "model/point_history_classifier/point_history.csv" as shown below.<br>
 1st column: Pressed number (used as class ID), 2nd and subsequent columns: Coordinate history<br>
 <img src="https://user-images.githubusercontent.com/37477845/102345850-54ede380-3fe1-11eb-8d04-88e351445898.png" width="80%"><br><br>
