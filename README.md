@@ -122,7 +122,7 @@ In the initial state, three types of learning data are included: open hand (clas
 If necessary, add 3 or later, or delete the existing data of csv to prepare the training data.<br>
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/100310619/208147763-27609e46-d54d-439b-a9a2-fe1941cd7a9f.png" width="25%">
 <img width="215" alt="image" src="https://user-images.githubusercontent.com/100310619/208147961-e7089103-487e-45d4-bab0-5599f1ea576b.png" width="25%">
-<img src="https://user-images.githubusercontent.com/37477845/102348861-d3e51b00-3fe5-11eb-8b07-adc08a48a760.jpg" width="25%">
+<img width="208" alt="image" src="https://user-images.githubusercontent.com/100310619/208148296-a5222021-0816-41ab-a715-75d952d3c815.png" width="25%">
 
 #### 2.Model training
 
