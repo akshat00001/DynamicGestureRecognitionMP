@@ -121,7 +121,8 @@ The key point coordinates are the ones that have undergone the following preproc
 In the initial state, three types of learning data are included: open hand (class ID: 0), close hand (class ID: 1), and pointing (class ID: 2).<br>
 If necessary, add 3 or later, or delete the existing data of csv to prepare the training data.<br>
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/100310619/208147763-27609e46-d54d-439b-a9a2-fe1941cd7a9f.png" width="25%">
-<img src="https://user-images.githubusercontent.com/37477845/102348855-d2b3ee00-3fe5-11eb-9c6d-b8924092a6d8.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348861-d3e51b00-3fe5-11eb-8b07-adc08a48a760.jpg" width="25%">
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/100310619/208147961-e7089103-487e-45d4-bab0-5599f1ea576b.png" width="25%">
+<img src="https://user-images.githubusercontent.com/37477845/102348861-d3e51b00-3fe5-11eb-8b07-adc08a48a760.jpg" width="25%">
 
 #### 2.Model training
 
