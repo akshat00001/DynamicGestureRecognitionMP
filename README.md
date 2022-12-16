@@ -1,4 +1,4 @@
-# DynamicGestureRecognitionMP
+# Dynamic Hand and Finger GestureRecognitionMP
 
 Estimate hand pose using MediaPipe(Python version).<br> This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
 ![project](https://user-images.githubusercontent.com/100310619/208150909-3eb2e972-24cc-49ac-98ce-fd2a49d3e662.gif)
