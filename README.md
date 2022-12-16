@@ -1,10 +1,9 @@
 # DynamicGestureRecognitionMP
 
 Estimate hand pose using MediaPipe(Python version).<br> This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
-![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+![project](https://user-images.githubusercontent.com/100310619/208150909-3eb2e972-24cc-49ac-98ce-fd2a49d3e662.gif)
 
 This repository contains the following contents.
-
 - Sample program
 - Hand sign recognition model(TFLite)
 - Finger gesture recognition model(TFLite)
